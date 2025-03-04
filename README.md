@@ -2,6 +2,8 @@
 
 ## Due to the image dataset is huge, I can not upload all of them to this repository, Please download the dataset to your local enviornment using this link: https://data.mendeley.com/datasets/thgf23xgy7/2
 
+## Gnatt Chart: Track Progress
+https://docs.google.com/spreadsheets/d/1Yj4T68Ze_XB4ju9oqgQOH26S3TCCsREz5uDlB4JvL6Q/edit?gid=1115838130#gid=1115838130
 
 ## Key DDL:
 3/4 Student Project Proposal Presentations (one page papers are due at 10:00am)
