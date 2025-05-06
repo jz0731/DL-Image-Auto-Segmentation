@@ -12,9 +12,11 @@ Gastric cancer remains one of the leading causes of cancer-related mortality wor
 ## Dataset:
 Due to the image dataset being huge, I can not upload all of them to this repository. Please download the dataset to your local environment using this link: 
 
-GasHisSDB: https://data.mendeley.com/datasets/thgf23xgy7/2
+GasHisSDB:
+https://data.mendeley.com/datasets/thgf23xgy7/2
 
-GCHTID: https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image_Dataset_GCHTID_/25954813 
+GCHTID: 
+https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image_Dataset_GCHTID_/25954813 
 
 
 ## Teamwork Distribution:
