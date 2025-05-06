@@ -4,12 +4,15 @@
 
 ## Teamwork Distribution:
 ### Jeremy HQ Zhu(hz3106@nyu.edu): ResNet-18 Classification CNN (Using GasHisSDB) 
-#### Notebook:CNN Basics.ipynb, CNN(add layers).ipynb, CNN(Distillation).ipynb
+#### Notebook: CNN(Distillation).ipynb, CNN(add layers).ipynb, CNNbasics.ipynb
+
 
 ### Annabel ():U-Net Architecture (Using GasHisSDB)
+#### Notebook:
 
 ### Deco :
+#### Notebook:
 
 ### Joyce:
-
+#### Notebook:
 
