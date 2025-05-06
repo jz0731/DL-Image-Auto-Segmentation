@@ -1,4 +1,4 @@
-# DeepLearningFinalProject: Team Annabel, Deco, Joyce ,Jeremy 
+# DeepLearning Final Project: Team Annabel, Deco, Joyce ,Jeremy 
 
 ## Due to the image dataset being huge, I can not upload all of them to this repository. Please download the dataset to your local environment using this link: https://data.mendeley.com/datasets/thgf23xgy7/2
 
