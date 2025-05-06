@@ -1,4 +1,4 @@
-# DeepLearning Final Project: GastricVision: Comprehensive Deep Learning Framework for Gastric Cancer Histopathology Image using GasHisSDB & GCHTID
+# GastricVision: Comprehensive Deep Learning Framework for Gastric Cancer Histopathology Image using GasHisSDB & GCHTID
 
 
 ![Dataset visualization](https://production-media.paperswithcode.com/datasets/a0307444-f7f3-4d34-afad-85be475dde3a.jpg)
