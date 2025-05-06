@@ -20,7 +20,7 @@ Due to the image dataset being huge, I can not upload all of them to this reposi
 ### Annabel ():U-Net Architecture (Using GasHisSDB)
 #### Notebook:
 
-### Deco :
+### Deco : Efficientnet multiclassification for tissue type. Data Augmentation
 #### Notebook:
 
 ### Joyce:
