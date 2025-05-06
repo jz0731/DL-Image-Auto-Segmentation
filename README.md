@@ -29,5 +29,5 @@ GCHTID: https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tiss
 #### Notebook: Multiclass.ipynb
 
 ### Joyce Zhou (jz4391@nyu.edu): Grad-CAM (Using GCHTID)
-#### Notebook:
+#### Notebook: GradCam_raw_images.ipynb
 
