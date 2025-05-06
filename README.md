@@ -26,7 +26,7 @@ GCHTID: https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tiss
 #### Notebook:
 
 ### Deco Liu (dl3607@nyu.edu): Efficientnet multiclassification for tissue type (Using GCHTID)
-#### Notebook:
+#### Notebook: Multiclass.ipynb
 
 ### Joyce Zhou (jz4391@nyu.edu): Grad-CAM (Using GCHTID)
 #### Notebook:
