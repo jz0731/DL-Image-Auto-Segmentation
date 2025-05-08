@@ -28,7 +28,7 @@ https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image
 
 ### Annabel Chen (sc11601@nyu.edu): U-Net Architecture (Using GasHisSDB)
 #### Notebook:UNet_whole_image.ipynb, UNet_downscaled_image.ipynb, GradCam_raw_images.ipynb
-#### Paper: Results (Partial), Methods (Partial)
+#### Paper: Introduction (partial), Hypothesis, Results (Partial), Methods (Partial)
 ### Presentation: First UNet model results
 
 ### Deco Liu (dl3607@nyu.edu): Efficientnet multiclassification for tissue type (Using GCHTID)
