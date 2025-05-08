@@ -22,7 +22,7 @@ https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image
 ## Teamwork Distribution:
 ### Jeremy HQ Zhu (hz3106@nyu.edu): ResNet-18 Classification CNN (Using GasHisSDB) 
 #### Notebook: CNN(Distillation).ipynb, CNN(add layers).ipynb, CNNbasics.ipynb
-#### Paper: Data (Partial), Results (Partial), Methods (Partial)
+#### Paper: Data (Partial), Results (Partial), Methods (Partial), References
 #### Presentation: Introduction, CNN model results
 
 
