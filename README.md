@@ -31,5 +31,5 @@ https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image
 #### Notebook: Multiclass.ipynb
 
 ### Joyce Zhou (jz4391@nyu.edu): Grad-CAM (Using GCHTID)
-#### Notebook:  
+#### Notebook:  dataset2_activate_segmentation.ipynb
 
