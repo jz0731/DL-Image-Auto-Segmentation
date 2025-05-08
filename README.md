@@ -22,14 +22,22 @@ https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image
 ## Teamwork Distribution:
 ### Jeremy HQ Zhu (hz3106@nyu.edu): ResNet-18 Classification CNN (Using GasHisSDB) 
 #### Notebook: CNN(Distillation).ipynb, CNN(add layers).ipynb, CNNbasics.ipynb
+#### Paper: Introduction, Data (Partial), Results (Partial), Methods (Partial)
+### Presentation: Introduction, CNN model results
 
 
 ### Annabel Chen (sc11601@nyu.edu): U-Net Architecture (Using GasHisSDB)
 #### Notebook:UNet_whole_image.ipynb, UNet_downscaled_image.ipynb, GradCam_raw_images.ipynb
+#### Paper: Results (Partial), Methods (Partial)
+### Presentation: First UNet model results
 
 ### Deco Liu (dl3607@nyu.edu): Efficientnet multiclassification for tissue type (Using GCHTID)
 #### Notebook: Multiclass.ipynb
+#### Paper: Data (Partial), Results (Partial), Methods (Partial)
+#### Presentation: EfficientNet model results
 
 ### Joyce Zhou (jz4391@nyu.edu): Grad-CAM (Using GCHTID)
 #### Notebook:  dataset2_activate_segmentation.ipynb
+#### Paper: Results (Partial), Methods (Partial), Discussion
+#### Presentation: Second UNet model results
 
