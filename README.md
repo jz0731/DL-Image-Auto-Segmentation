@@ -41,3 +41,5 @@ https://figshare.com/articles/dataset/Gastric_Cancer_Histopathology_Tissue_Image
 #### Paper: Results (Partial), Methods (Partial), Discussion
 #### Presentation: Second UNet model results
 
+Overall workload was split relatively evenly throughout the group, with everyone contribution their own equal sized portion the code, presentation, and paper. 
+
